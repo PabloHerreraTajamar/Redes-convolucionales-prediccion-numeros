@@ -1,7 +1,7 @@
 import requests
 
 # Ruta de la imagen que quieres predecir
-image_path = "Image.jpg"  # Reemplázalo con la ruta correcta de tu imagen
+image_path = "numero.png"  # Reemplázalo con la ruta correcta de tu imagen
 
 # URL de la API Flask
 url = "http://127.0.0.1:5000/predict"
